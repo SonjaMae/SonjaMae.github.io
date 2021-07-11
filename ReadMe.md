@@ -1,3 +1,3 @@
 # My personal portfolio site
 
-TBA
+<img src="http://github.sonjamae.github.io/dark logo.png" />
